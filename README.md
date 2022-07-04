@@ -1,2 +1,2 @@
-[2019240_2019291.pdf](https://github.com/yuvrajgarg/Color-Switch-Game/files/9038861/2019240_2019291.pdf)
 # Color-Switch-Game
+![image](https://user-images.githubusercontent.com/63349570/177142397-498c7a26-b810-4dc1-a085-26281314e577.png)

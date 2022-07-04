@@ -1,0 +1,15 @@
+.button{
+    -fx-background-color: rgba(10, 233, 233, 0.993);
+    -fx-font-size: 23px;
+    -fx-text-fill: black;
+    -fx-border-radius: 15px;
+    /* -fx-background-radius : 3px; */
+}
+.button {
+    -fx-transition-duration: 0.8s;
+}
+  
+.button:hover {
+    -fx-background-color: rgb(236, 230, 236); /* Green */
+    -fx-text-fill: rgba(0, 0, 0, 0.993);;
+}
